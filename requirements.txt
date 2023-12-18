@@ -1,0 +1,8 @@
+pandas
+missingno
+matplotlib
+numpy
+scikit-learn
+seaborn
+fastparquet
+pyarrow
